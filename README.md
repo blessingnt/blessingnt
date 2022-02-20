@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @blessingnt
 - 👀 I’m interested in creating tools with programming
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me: linkedin.com/in/blessing-ntekume-aa4877142
 
 <!---
